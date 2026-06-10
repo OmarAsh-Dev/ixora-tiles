@@ -1,0 +1,69 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="16000" height="8192" viewBox="0 0 16000 8192">
+    <g id="Root">
+        <g id="Buildings">
+            <g id="A-Group">
+                <polygon id="_11-12" data-name=" 11-12"
+                    points="11421 5299.39 11880.79 5290.59 11948.25 5477.34 12180.26 5505.54 12275.79 5748.15 12365.04 5751.93 12421.61 5892.71 12361.27 6003.33 12421.61 6162.98 12412.9 6195.82 12251.91 6196.92 12266.99 6230.86 12102.36 6569.78 11431.12 6577.14 11415.26 6606.95 11044.03 6596.47 10955.08 6631.72 10920.59 6604.09 10636.49 6607.9 10477.65 6607.9 10238.97 6592.78 10067.83 6576 10060.99 6623.92 9953.73 6614.34 8837.9 6619.13 8824.2 6250.15 8803.67 5953.05 8771.73 5449.89 8949.71 5445.1 8949.71 5346.87 9209.84 5342.07 9200.72 5277.38 9296.55 5272.59 9307.97 5112.06 10895.56 5117.12 10948.35 5337.1 11056.2 5336.58 11067.49 5379.25 11455.22 5380.7 11421 5299.39"
+                    fill="#496391" stroke="#000" stroke-miterlimit="10" opacity="0.05" style="isolation:isolate" />
+                <polygon id="_19-20" data-name=" 19-20"
+                    points="5463.72 5252.41 5497.59 5076.89 7072.32 5059.56 7083.6 5205.01 7185.26 5210.66 7184.29 5264.14 7431.14 5269.78 7437.27 5433.15 7627.67 5429.06 7627.67 6121.87 7647.27 6489.38 5480.96 6535.87 5020.56 6540.71 4993.29 6471.99 4933.68 6458.27 4903.05 6576.71 4856.08 6574.67 4809.11 6525.66 4336.32 6500.39 4232.88 6268.6 4188.76 6268.83 4171.59 6201.59 4180.15 6172.38 4036.93 6175.99 4029.04 6143.79 4104.6 5890.57 4018.83 5892.61 4064.6 5733.3 4153.64 5733.94 4220.51 5504.89 4267.82 5509.68 4278.67 5478.13 4442.01 5475.59 4508.62 5262.92 4952.06 5257.53 5463.72 5252.41"
+                    fill="#496391" stroke="#000" stroke-miterlimit="10" opacity="0.05" style="isolation:isolate" />
+                <polygon id="_6-5" data-name=" 6-5"
+                    points="9926.81 1249.12 10032.56 1246.71 10220.01 1249.12 10226.02 1228.69 10634.59 1226.29 10742.74 1472.63 10694.63 1634.48 10584.85 1649.73 10384.14 1658.37 10338.72 2017.69 9918.88 2020.09 9748.27 1827.62 8773.89 1821.47 8562.89 1818.4 8562.89 1725.19 8569.84 1517.84 8558.1 1257.4 8898.18 1259.93 8902.99 1144.57 9894.36 1143.37 9926.81 1249.12"
+                    fill="#496391" stroke="#000" stroke-miterlimit="10" opacity="0.05" style="isolation:isolate" />
+                <polygon id="_3-4" data-name=" 3-4"
+                    points="7482.18 1122.37 6490.53 1129.52 6472.33 1221.93 6138.19 1218.38 5736.07 1223 5652.3 1462.45 5677.02 1609.8 5795.63 1613.6 5993.43 1619.53 6053.24 1968.09 6558.11 1987.65 6620.67 1882.57 6743.77 1884.55 6981.36 1846.57 7583.68 1848.38 7703.06 1882.74 7826.65 1875.87 7822.07 1458.98 7816.99 1238.83 7482.99 1240.56 7482.18 1122.37"
+                    fill="#496391" stroke="#000" stroke-miterlimit="10" opacity="0.05" style="isolation:isolate" />
+            </g>
+            <g id="B-Group">
+                <polygon id="_9-10" data-name=" 9-10"
+                    points="12208.8 3509.88 12098.53 3510.92 11997.5 3271.34 11832.11 3249.55 11173.53 3249.55 10928.4 3280.25 10915.83 3677.12 10859.24 3744.63 10874.8 4113.31 11075.37 5044.88 11196.34 5255.36 11458.16 5269.42 12166.68 5267.22 12283.15 5224.55 12354.01 5152.62 12397.75 4995.24 12376.02 4952.67 12469.71 4937.75 12507.03 4798.08 12475.66 4719.19 12484.28 4697.07 12663.88 4698.3 12667.73 4675.26 12567.91 4454.11 12519.01 4449.2 12574.39 4317.38 12360.16 3855.49 12208.8 3509.88"
+                    fill="#637c51" stroke="#000" stroke-miterlimit="10" opacity="0.05" style="isolation:isolate" />
+                <polygon id="_7-8" data-name=" 7-8"
+                    points="11593.52 2221.57 11615.5 2276.02 11699.44 2586.26 11644.74 2714.8 11643.81 2740.69 11576.13 2743.46 11518.65 2978.35 11547.85 3053.81 11542.75 3074.51 11498.41 3074.12 11488.98 3114.28 11399.05 3183.63 10736.14 3177.16 10559.05 3007.01 10562.76 2838.71 10531.25 2698.15 10513.63 2518.76 10431.11 2376.34 10375.49 2362.47 10368.54 2319.83 10386.61 2074.88 10417.62 1686.3 10459.87 1672.89 10665.26 1663.32 10663.35 1642.26 11160.54 1642.26 11162.46 1672.89 11419.69 1672.89 11628.94 2186.03 11593.52 2221.57"
+                    fill="#637c51" stroke="#000" stroke-miterlimit="10" opacity="0.05" style="isolation:isolate" />
+                <polygon id="_1-2" data-name=" 1-2"
+                    points="5923.95 1645.19 5974.07 1657.04 6018.93 2205.95 5846.07 2670.42 5821.01 2921.13 5702.25 3084.74 5327.17 3111.69 5021.38 3075.51 4851.17 3000.3 4702.06 2527.91 4764.08 2376.17 4740.33 2373.53 4851.17 2161.09 4785.19 2162.41 4783.87 2138.66 4998.95 1645.16 5208.66 1643.6 5212.71 1619.53 5742.37 1619.53 5739.03 1643.45 5923.95 1645.19"
+                    fill="#637c51" stroke="#000" stroke-miterlimit="10" opacity="0.05" style="isolation:isolate" />
+                <polygon id="_21-22" data-name=" 21-22"
+                    points="5233.22 3178.06 5455.31 3176.72 5509.65 3813.69 5336.24 4890.6 5214.49 5077.91 4940.61 5104.86 4265.9 5128.76 4113.98 5095.31 3962.19 4768.85 3946.13 4649.78 3792.27 4540.07 3792.27 4522.67 3886.37 4310.5 3930.37 4306.23 3885.93 4178.83 4087.95 3695.84 4223.19 3390.83 4315.36 3390.47 4404.35 3168.09 4556.56 3148.97 5222.52 3141.93 5233.22 3178.06"
+                    fill="#637c51" stroke="#000" stroke-miterlimit="10" opacity="0.05" style="isolation:isolate" />
+            </g>
+            <g id="C-Group">
+                <polygon id="_13-14-15" data-name=" 13-14-15"
+                    points="9920.4 2408.56 9792.84 1901.39 9748.96 1903.2 9733.58 1855.47 9385.12 1860.73 9382.49 1838.38 8766.2 1839.91 8753.94 1866.08 8484.28 1866.7 8460.37 1899.85 8450 2361.68 8492.64 2486.94 8545.2 3207.5 8578.7 3907.01 8575.03 4138.64 8546.43 4618.58 8664.77 4776.88 8967.53 4898.29 9748.27 4898.29 10075.62 4776.88 10237.77 3910.08 10067.94 3203.12 9848.16 3204.66 9723.68 2586.84 9714.45 2479.25 9726.99 2425.47 9920.4 2408.56"
+                    fill="#bc4c18" stroke="#000" stroke-miterlimit="10" opacity="0.05" style="isolation:isolate" />
+                <path id="_16-17-18" data-name=" 16-17-18"
+                    d="M7945.59,2612.69V1922.58l-71.93-33.36L7593,1891.44l-3.91-35.58-574.84-1.41h-51.35l.53,32.73-278.27.41-3.52,30.19-74.56,1.67-93.82,523.32,193.9,2.08-143.86,666.84-19.81,119.18H6363.13l-104.25,533.74-32.32,177.22,111.55,709.92L6374.59,4806l322.13,115.72h789.14l300.23-114.67,104.25-155.33-7.3-711,7.3-707.84-79.23,1.05,3-451.4,43.88,1.05,5.21-152.2Z"
+                    fill="#bc4c18" stroke="#000" stroke-miterlimit="10" opacity="0.05" style="isolation:isolate" />
+            </g>
+        </g>
+        <g id="virtual">
+            <circle cx="8150" cy="7134.99" r="150" fill="#f9f9f9" stroke="#000" stroke-miterlimit="10"  opacity="0.2"/>
+            <circle cx="6034.93" cy="4823.01" r="150" fill="#f9f9f9" stroke="#000" stroke-miterlimit="10"  opacity="0.2"/>
+            <circle cx="8228.42" cy="5032.6" r="150" fill="#f9f9f9" stroke="#000" stroke-miterlimit="10"  opacity="0.2"/>
+            <circle cx="10556.24" cy="4882.6" r="150" fill="#f9f9f9" stroke="#000" stroke-miterlimit="10"  opacity="0.2"/>
+            <circle cx="11926.41" cy="3033.63" r="150" fill="#f9f9f9" stroke="#000" stroke-miterlimit="10"  opacity="0.2"/>
+            <circle cx="8300" cy="3642.03" r="150" fill="#f9f9f9" stroke="#000" stroke-miterlimit="10"  opacity="0.2"/>
+            <circle cx="8262.6" cy="2262.94" r="150" fill="#f9f9f9" stroke="#000" stroke-miterlimit="10"  opacity="0.2"/>
+            <circle cx="5780.36" cy="3464.42" r="150" fill="#f9f9f9" stroke="#000" stroke-miterlimit="10"  opacity="0.2"/>
+            <circle cx="6334.93" cy="2262.94" r="150" fill="#f9f9f9" stroke="#000" stroke-miterlimit="10"  opacity="0.2"/>
+            <circle cx="10093.86" cy="2223.85" r="150" fill="#f9f9f9" stroke="#000" stroke-miterlimit="10"  opacity="0.2"/>
+            <circle cx="8196.57" cy="1492.26" r="150" fill="#f9f9f9" stroke="#000" stroke-miterlimit="10"  opacity="0.2"/>
+            <circle cx="3316.38" cy="5721.89" r="150" fill="#f9f9f9" stroke="#000" stroke-miterlimit="10"  opacity="0.2"/>
+            <image id="vr-5" transform="translate(3166.38 5571.89) scale(0.47)" xlink:href="https://res.cloudinary.com/dfyfyxdph/image/upload/v1765301614/360_l8klzg.webp" />
+            <image id="vr-7" transform="translate(5630.36 3314.42) scale(0.47)" xlink:href="https://res.cloudinary.com/dfyfyxdph/image/upload/v1765301614/360_l8klzg.webp" />
+            <image id="vr-9" transform="translate(6184.93 2112.94) scale(0.47)" xlink:href="https://res.cloudinary.com/dfyfyxdph/image/upload/v1765301614/360_l8klzg.webp" />
+            <image id="vr-2" transform="translate(5884.93 4673.01) scale(0.47)" xlink:href="https://res.cloudinary.com/dfyfyxdph/image/upload/v1765301614/360_l8klzg.webp" />
+            <image id="vr-10" transform="translate(8000 6984.99) scale(0.47)" xlink:href="https://res.cloudinary.com/dfyfyxdph/image/upload/v1765301614/360_l8klzg.webp" />
+            <image id="vr-6" transform="translate(8088.26 4873.08) scale(0.47)" xlink:href="https://res.cloudinary.com/dfyfyxdph/image/upload/v1765301614/360_l8klzg.webp" />
+            <image id="vr-4" transform="translate(8150 3497.42) scale(0.47)" xlink:href="https://res.cloudinary.com/dfyfyxdph/image/upload/v1765301614/360_l8klzg.webp" />
+            <image id="vr-8" transform="translate(8112.6 2112.94) scale(0.47)" xlink:href="https://res.cloudinary.com/dfyfyxdph/image/upload/v1765301614/360_l8klzg.webp" />
+            <image id="vr-11" transform="translate(8046.57 1346.51) scale(0.47)" xlink:href="https://res.cloudinary.com/dfyfyxdph/image/upload/v1765301614/360_l8klzg.webp" />
+            <image id="vr-1" transform="translate(9937.77 2061.68) scale(0.47)" xlink:href="https://res.cloudinary.com/dfyfyxdph/image/upload/v1765301614/360_l8klzg.webp" />
+            <image id="vr-3" transform="translate(10406.24 4732.6) scale(0.47)" xlink:href="https://res.cloudinary.com/dfyfyxdph/image/upload/v1765301614/360_l8klzg.webp" />
+            <image id="vr-12" transform="translate(11770.33 2883.63) scale(0.47)" xlink:href="https://res.cloudinary.com/dfyfyxdph/image/upload/v1765301614/360_l8klzg.webp" />
+        </g>
+    </g>
+</svg>
